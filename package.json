@@ -1,6 +1,6 @@
 {
   "name": "@nest-js/http-request-manager",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "NestJS http manager library with axios",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
