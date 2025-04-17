@@ -15,12 +15,6 @@ Axios HTTP Manager es un módulo avanzado para NestJS que proporciona una capa d
 - **Configuración flexible**: Opciones estáticas o asíncronas para adaptarse a cualquier proyecto
 - **Integración con NestJS**: Diseñado específicamente para trabajar con el ecosistema NestJS
 
-## Instalación
-
-```bash
-npm install @nest-js/http-request-manager
-```
-
 ## Uso Básico
 
 ### Configuración del Módulo
