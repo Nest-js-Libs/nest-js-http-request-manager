@@ -1,4 +1,4 @@
-# Axios HTTP Manager
+# Axios HTTP Request Manager
 
 ### @nest-js/http-request-manager
 
